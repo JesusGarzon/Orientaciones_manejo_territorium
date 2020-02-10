@@ -1,0 +1,2 @@
+# Orientaciones_manejo_territorium
+Lineamientos manejo plataforma territorium
